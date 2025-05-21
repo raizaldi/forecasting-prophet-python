@@ -1,0 +1,181 @@
+date,variant,quantity,promo_event,bundling_package_variant
+2023-01-01,Caramel Crunch,231,No,Weekend Special
+2023-01-01,Hazelnut Twist,231,No,Standard
+2023-01-01,Decaf Blend,229,No,Standard
+2023-01-02,Vanilla Dream,124,No,Weekend Special
+2023-01-02,Matcha Green,166,No,Weekend Special
+2023-01-02,Hazelnut Twist,88,No,Healthy Bundle
+2023-01-03,Cold Brew,126,Yes,Standard
+2023-01-03,Matcha Green,138,No,Morning Combo
+2023-01-03,Decaf Blend,141,No,Standard
+2023-01-04,Vanilla Dream,158,Yes,Morning Combo
+2023-01-04,Hazelnut Twist,99,Yes,Standard
+2023-01-04,Caramel Crunch,163,No,Weekend Special
+2023-01-05,Caramel Crunch,120,No,Morning Combo
+2023-01-05,Mocha Supreme,128,No,Healthy Bundle
+2023-01-05,Coconut Blend,181,Yes,Standard
+2023-01-06,Decaf Blend,141,No,Healthy Bundle
+2023-01-06,Mocha Supreme,117,No,Afternoon Set
+2023-01-06,Hazelnut Twist,132,No,Afternoon Set
+2023-01-07,Matcha Green,230,Yes,Standard
+2023-01-07,Espresso Classic,167,Yes,Standard
+2023-01-07,Latte Deluxe,159,No,Standard
+2023-01-08,Mocha Supreme,157,No,Standard
+2023-01-08,Latte Deluxe,125,No,Standard
+2023-01-08,Espresso Classic,185,Yes,Standard
+2023-01-09,Mocha Supreme,130,Yes,Standard
+2023-01-09,Espresso Classic,73,No,Standard
+2023-01-09,Caramel Crunch,95,No,Healthy Bundle
+2023-01-10,Mocha Supreme,87,Yes,Healthy Bundle
+2023-01-10,Cold Brew,137,No,Standard
+2023-01-10,Latte Deluxe,112,No,Standard
+2023-01-11,Matcha Green,197,Yes,Standard
+2023-01-11,Coconut Blend,113,No,Standard
+2023-01-11,Hazelnut Twist,110,No,Afternoon Set
+2023-01-12,Vanilla Dream,158,Yes,Standard
+2023-01-12,Cold Brew,100,No,Standard
+2023-01-12,Caramel Crunch,114,No,Weekend Special
+2023-01-13,Decaf Blend,134,No,Standard
+2023-01-13,Latte Deluxe,81,No,Standard
+2023-01-13,Matcha Green,179,Yes,Standard
+2023-01-14,Hazelnut Twist,284,Yes,Standard
+2023-01-14,Cold Brew,243,No,Morning Combo
+2023-01-14,Caramel Crunch,251,Yes,Standard
+2023-01-15,Cold Brew,226,Yes,Weekend Special
+2023-01-15,Matcha Green,124,No,Standard
+2023-01-15,Espresso Classic,90,No,Morning Combo
+2023-01-16,Hazelnut Twist,102,Yes,Standard
+2023-01-16,Matcha Green,126,No,Weekend Special
+2023-01-16,Caramel Crunch,153,Yes,Morning Combo
+2023-01-17,Espresso Classic,70,No,Standard
+2023-01-17,Latte Deluxe,125,No,Weekend Special
+2023-01-17,Coconut Blend,170,No,Weekend Special
+2023-01-18,Vanilla Dream,139,Yes,Healthy Bundle
+2023-01-18,Espresso Classic,78,No,Standard
+2023-01-18,Decaf Blend,202,Yes,Standard
+2023-01-19,Coconut Blend,119,Yes,Weekend Special
+2023-01-19,Caramel Crunch,102,No,Afternoon Set
+2023-01-19,Hazelnut Twist,90,Yes,Standard
+2023-01-20,Decaf Blend,120,Yes,Weekend Special
+2023-01-20,Espresso Classic,118,Yes,Standard
+2023-01-20,Latte Deluxe,105,No,Standard
+2023-01-21,Latte Deluxe,99,No,Morning Combo
+2023-01-21,Hazelnut Twist,148,Yes,Standard
+2023-01-21,Matcha Green,185,No,Afternoon Set
+2023-01-22,Cold Brew,244,Yes,Weekend Special
+2023-01-22,Espresso Classic,157,No,Weekend Special
+2023-01-22,Matcha Green,247,Yes,Healthy Bundle
+2023-01-23,Mocha Supreme,100,No,Weekend Special
+2023-01-23,Espresso Classic,94,Yes,Standard
+2023-01-23,Latte Deluxe,73,No,Standard
+2023-01-24,Coconut Blend,103,No,Standard
+2023-01-24,Decaf Blend,106,Yes,Standard
+2023-01-24,Matcha Green,109,No,Standard
+2023-01-25,Coconut Blend,101,No,Standard
+2023-01-25,Vanilla Dream,99,No,Standard
+2023-01-25,Caramel Crunch,99,No,Afternoon Set
+2023-01-26,Vanilla Dream,147,Yes,Summer Promo
+2023-01-26,Matcha Green,142,No,Standard
+2023-01-26,Coconut Blend,105,Yes,Afternoon Set
+2023-01-27,Matcha Green,125,No,Standard
+2023-01-27,Hazelnut Twist,120,Yes,Standard
+2023-01-27,Mocha Supreme,70,No,Standard
+2023-01-28,Vanilla Dream,206,Yes,Weekend Special
+2023-01-28,Decaf Blend,116,No,Morning Combo
+2023-01-28,Caramel Crunch,162,No,Afternoon Set
+2023-01-29,Cold Brew,265,Yes,Standard
+2023-01-29,Coconut Blend,152,Yes,Healthy Bundle
+2023-01-29,Espresso Classic,85,No,Afternoon Set
+2023-01-30,Cold Brew,191,No,Standard
+2023-01-30,Latte Deluxe,176,Yes,Summer Promo
+2023-01-30,Vanilla Dream,85,No,Morning Combo
+2023-01-31,Mocha Supreme,113,No,Standard
+2023-01-31,Hazelnut Twist,114,No,Morning Combo
+2023-01-31,Decaf Blend,134,No,Standard
+2023-02-01,Cold Brew,173,Yes,Afternoon Set
+2023-02-01,Latte Deluxe,272,Yes,Standard
+2023-02-01,Hazelnut Twist,174,No,Standard
+2023-02-02,Matcha Green,197,No,Standard
+2023-02-02,Mocha Supreme,121,No,Standard
+2023-02-02,Espresso Classic,99,No,Afternoon Set
+2023-02-03,Espresso Classic,78,No,Standard
+2023-02-03,Caramel Crunch,82,No,Standard
+2023-02-03,Decaf Blend,149,Yes,Standard
+2023-02-04,Vanilla Dream,122,No,Summer Promo
+2023-02-04,Hazelnut Twist,195,Yes,Healthy Bundle
+2023-02-04,Decaf Blend,154,No,Healthy Bundle
+2023-02-05,Coconut Blend,188,No,Weekend Special
+2023-02-05,Caramel Crunch,183,Yes,Standard
+2023-02-05,Espresso Classic,136,No,Standard
+2023-02-06,Vanilla Dream,73,No,Standard
+2023-02-06,Hazelnut Twist,151,No,Standard
+2023-02-06,Cold Brew,175,Yes,Weekend Special
+2023-02-07,Vanilla Dream,164,No,Weekend Special
+2023-02-07,Matcha Green,170,No,Standard
+2023-02-07,Hazelnut Twist,104,No,Standard
+2023-02-08,Coconut Blend,115,Yes,Afternoon Set
+2023-02-08,Matcha Green,194,No,Standard
+2023-02-08,Decaf Blend,107,No,Standard
+2023-02-09,Latte Deluxe,143,No,Standard
+2023-02-09,Vanilla Dream,84,No,Standard
+2023-02-09,Decaf Blend,192,Yes,Weekend Special
+2023-02-10,Vanilla Dream,107,No,Standard
+2023-02-10,Hazelnut Twist,138,No,Standard
+2023-02-10,Decaf Blend,125,No,Standard
+2023-02-11,Cold Brew,133,No,Healthy Bundle
+2023-02-11,Coconut Blend,129,No,Morning Combo
+2023-02-11,Matcha Green,231,No,Afternoon Set
+2023-02-12,Latte Deluxe,139,No,Weekend Special
+2023-02-12,Cold Brew,196,Yes,Afternoon Set
+2023-02-12,Coconut Blend,147,No,Standard
+2023-02-13,Coconut Blend,121,No,Standard
+2023-02-13,Cold Brew,114,No,Standard
+2023-02-13,Mocha Supreme,206,Yes,Healthy Bundle
+2023-02-14,Hazelnut Twist,156,No,Standard
+2023-02-14,Latte Deluxe,147,No,Afternoon Set
+2023-02-14,Decaf Blend,222,Yes,Weekend Special
+2023-02-15,Hazelnut Twist,152,No,Standard
+2023-02-15,Caramel Crunch,129,No,Weekend Special
+2023-02-15,Decaf Blend,191,Yes,Weekend Special
+2023-02-16,Coconut Blend,80,No,Standard
+2023-02-16,Matcha Green,224,No,Weekend Special
+2023-02-16,Latte Deluxe,110,No,Morning Combo
+2023-02-17,Caramel Crunch,132,No,Weekend Special
+2023-02-17,Matcha Green,235,Yes,Standard
+2023-02-17,Vanilla Dream,102,No,Standard
+2023-02-18,Caramel Crunch,97,No,Morning Combo
+2023-02-18,Espresso Classic,149,No,Standard
+2023-02-18,Mocha Supreme,120,No,Standard
+2023-02-19,Latte Deluxe,155,Yes,Weekend Special
+2023-02-19,Matcha Green,258,Yes,Standard
+2023-02-19,Cold Brew,86,No,Morning Combo
+2023-02-20,Caramel Crunch,159,Yes,Afternoon Set
+2023-02-20,Matcha Green,188,No,Healthy Bundle
+2023-02-20,Decaf Blend,99,Yes,Healthy Bundle
+2023-02-21,Latte Deluxe,115,Yes,Morning Combo
+2023-02-21,Coconut Blend,172,Yes,Standard
+2023-02-21,Decaf Blend,109,Yes,Healthy Bundle
+2023-02-22,Espresso Classic,112,No,Standard
+2023-02-22,Coconut Blend,79,No,Summer Promo
+2023-02-22,Matcha Green,232,No,Standard
+2023-02-23,Espresso Classic,136,No,Standard
+2023-02-23,Caramel Crunch,124,No,Standard
+2023-02-23,Vanilla Dream,127,No,Standard
+2023-02-24,Mocha Supreme,96,No,Healthy Bundle
+2023-02-24,Hazelnut Twist,161,Yes,Morning Combo
+2023-02-24,Latte Deluxe,100,No,Morning Combo
+2023-02-25,Hazelnut Twist,115,No,Standard
+2023-02-25,Coconut Blend,103,No,Standard
+2023-02-25,Decaf Blend,149,No,Morning Combo
+2023-02-26,Vanilla Dream,144,No,Weekend Special
+2023-02-26,Caramel Crunch,200,Yes,Standard
+2023-02-26,Cold Brew,165,Yes,Standard
+2023-02-27,Caramel Crunch,167,Yes,Standard
+2023-02-27,Vanilla Dream,92,No,Healthy Bundle
+2023-02-27,Latte Deluxe,138,No,Standard
+2023-02-28,Latte Deluxe,108,No,Standard
+2023-02-28,Mocha Supreme,110,No,Standard
+2023-02-28,Decaf Blend,155,No,Healthy Bundle
+2023-03-01,Latte Deluxe,176,No,Afternoon Set
+2023-03-01,Caramel Crunch,212,No,Standard
+2023-03-01,Vanilla Dream,267,Yes,Weekend Special
